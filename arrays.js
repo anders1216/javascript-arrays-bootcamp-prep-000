@@ -13,11 +13,13 @@ function destructivelyAddElementToBeginningOfArray (array, element){
 }
 
 function addElementToEndOfArray(array, element){
-  
+  var newArray = [...array, element];
+  return newArray
 }
 
 function destructivelyAddElementToEndOfArray(array, element){
-  
+  var brokenNewArray = array.push(element);
+  return brokenNewArray
 }
 
 function accessElementInArray (array, index){
@@ -33,5 +35,8 @@ function removeElementFromBeginningOfArray(array) {
 }
 
 function destructivelyRemoveElementFromEndOfArray(array){
+  
+}
+function removeElementFromEndOfArray(array) {
   
 }
