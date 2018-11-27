@@ -20,15 +20,18 @@ function destructivelyAddElementToEndOfArray(array, element){
   
 }
 
-function accessElementInArray (array, element){
+function accessElementInArray (array, index){
   
 }
 
-function destructivelyRemoveElementFromBeginningOfArray (array, element){
+function destructivelyRemoveElementFromBeginningOfArray (array){
   
 }
 
-function removeElementFromBeginningOfArray(array, element) {
+function removeElementFromBeginningOfArray(array) {
   
 }
 
+function destructivelyRemoveElementFromEndOfArray(array){
+  
+}
