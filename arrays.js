@@ -12,12 +12,23 @@ function destructivelyAddElementToBeginningOfArray (array, element){
   return brokenNewArray
 }
 
-function addElementToEndOfArray(array, element)
+function addElementToEndOfArray(array, element){
+  
+}
 
-function
+function destructivelyAddElementToEndOfArray(array, element){
+  
+}
 
-function
+function accessElementInArray (array, element){
+  
+}
 
-function
+function destructivelyRemoveElementFromBeginningOfArray (array, element){
+  
+}
 
-function
+function removeElementFromBeginningOfArray(array, element) {
+  
+}
+
