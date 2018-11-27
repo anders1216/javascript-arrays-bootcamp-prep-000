@@ -11,3 +11,13 @@ function destructivelyAddElementToBeginningOfArray (array, element){
   brokenNewArray.unshift(element);
   return brokenNewArray
 }
+
+function 
+
+function
+
+function
+
+function
+
+function
